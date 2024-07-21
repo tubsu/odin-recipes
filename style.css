@@ -1,0 +1,27 @@
+
+.header {
+    background-color: blue; 
+    color: rgb(0, 255, 140); 
+    font-size: 60px;
+    display: inline;
+    padding: 15px;
+    margin-left: 100px;
+    
+    
+}
+.type {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 20px;
+    margin: 10px 15px;
+}
+
+.type1 {
+    font-weight: bold;
+    color: azure;
+    background-color: blueviolet;
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px 15px;
+    padding: 10px;
+}
